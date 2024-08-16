@@ -4,7 +4,6 @@
     <default-locale>en_US</default-locale>
     <name resource-id="name"/>
     <description>UI Namespace Sample</description>
-    <author name="Diego Martinez" email="dmartinez@modux.co" organization="Modux" website="https://www.modux.co"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>https://troysnsoft.github.io/extension_test/Extensiones/Samples/AutoRefresh_seconds/AutoRefresh.html</url>
